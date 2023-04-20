@@ -15,7 +15,7 @@ A good apprentice is the one who questions, not the one who silences his doubts.
 
 
 
-- 🔭 I’m currently working on [Pokemon Memory Match](https://memory-match-api.netlify.app/)
+- 🔭 I’m currently working on [App Tienda](https://github.com/DxAmbar/app_tienda) for NTT Data Talent Lab
 - 🌱 I’m currently learning React and more about JS. Nextjs, Postman and Jira are next. 
 - 😄 Pronouns: she - her.
 - ⚡ Fun fact: I'm a Pokemon fan.
@@ -34,7 +34,7 @@ And I also worked under Agile Project Management with Trello.
 <h3 align="left">Some of my repositories</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DxAmbar&repo=memory-match-api)](https://github.com/DxAmbar/memory-match-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DxAmbar&repo=SCL021-social-network)](https://github.com/DxAmbar/SCL021-social-network)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DxAmbar&repo=app_tienda)](https://github.com/DxAmbar/app_tienda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DxAmbar&repo=SCL021-memory-match)](https://github.com/DxAmbar/SCL021-memory-match)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DxAmbar&repo=SCL021-md-links)](https://github.com/DxAmbar/SCL021-md-links)
 
